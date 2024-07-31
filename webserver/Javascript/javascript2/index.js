@@ -1,5 +1,13 @@
-let myLuckyNumber = 1
-myName = 'joana'
+
+// //
+// alert
+// let myLuckyNumber = 1
+// myName = 'joana'
 
 
-alert(myName + ' ' + myLuckyNumber)
+// alert(myName + ' ' + myLuckyNumber)
+
+const message = "TASTE THE RAINBOW!"
+let whisper = message.trim().toLowerCase()
+
+alert(whisper)
