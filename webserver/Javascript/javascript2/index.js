@@ -7,7 +7,9 @@
 
 // alert(myName + ' ' + myLuckyNumber)
 
-const message = "TASTE THE RAINBOW!"
-let whisper = message.trim().toLowerCase()
+// const MESSAGE = "TASTE THE RAINBOW!"
+// let whisper = MESSAGE.trim().toLowerCase()
 
-alert(whisper)
+// console.log(whisper)
+
+
